@@ -36,15 +36,15 @@ with SingleTickerProviderStateMixin{
               'assets/images/splashscreen.png', // Path to your image file
               width: 250, // Adjust the size as needed
             ),
-            // const SizedBox(width: 10),
-            // const Text(
-            //   'Responsi 2024',
-            //   style: TextStyle(
-            //     fontSize: 24,
-            //     fontWeight: FontWeight.bold,
-            //     color: Colors.blue,
-            //   ),
-            // ),
+            const SizedBox(width: 10),
+            const Text(
+              'Responsi 2024',
+              style: TextStyle(
+                fontSize: 24,
+                fontWeight: FontWeight.bold,
+                color: Colors.blue,
+              ),
+            ),
           ],
         ),
       ),
