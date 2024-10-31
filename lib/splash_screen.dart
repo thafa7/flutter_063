@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_063/main.dart';
 
-class SplashScreen extends StatefulWidget {
+class SplashScree extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);
 
   @override
